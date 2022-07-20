@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hitheshthummala
+- 👋 Hi, I’m @Hithesh
 - 👀 I’m interested in Flutter, Dart, Vue js, WEB and Mobile App related Hackathons
 - 🌱 I’m currently learning(being a lifetime learner and loving to learn) Flutter, Dart, Vue, Go language.
 - 💞️ I’m looking to collaborate on Flutter, Go language.
